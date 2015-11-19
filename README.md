@@ -13,4 +13,5 @@ Now, simply cd into the downloaded folder and start up the server:
 ## Screenshots
 ![ScreenShot](/currencies.png)        ![ScreenShot](/pricing.png)
 
+<br>
 Credit to Jeremey Wilken's Ionic in Action book for providing the reference code.
