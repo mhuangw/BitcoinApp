@@ -4,11 +4,11 @@ This is a hybrid mobile app built with the Ionic framework. It leverages the Bit
 ## Running the App
 First, make sure you have Node.js installed. Then, open up your terminal and run the following command to install Cordova and Ionic:
 
-<code>npm install -g cordova ionic
+<code>npm install -g cordova ionic</code>
 
 Now, simply cd into the downloaded folder and start up the server:
 
-<code>ionic serve --lab
+<code>ionic serve --lab</code>
 
 ## Screenshots
 ![ScreenShot](/currencies.png)        ![ScreenShot](/pricing.png)
