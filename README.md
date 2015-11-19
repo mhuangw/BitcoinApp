@@ -6,7 +6,7 @@ First, make sure you have Node.js installed. Then, open up your terminal and run
 
 <code>npm install -g cordova ionic</code>
 
-Now, simply cd into the downloaded folder and start up the server:
+Next, simply cd into the downloaded folder and start up the server:
 
 <code>ionic serve --lab</code>
 
